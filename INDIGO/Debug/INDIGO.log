@@ -1,0 +1,51 @@
+﻿  Aimbot.cpp
+  LagComp.cpp
+  Client.cpp
+  Esp.cpp
+f:\my documents\csgo source\smef's indigo 4.0\indigo\cheat\aimbot\aimbot.cpp(55): error C2027: use of undefined type 'CTriggerbot'
+  f:\my documents\csgo source\smef's indigo 4.0\indigo\cheat\client.h(21): note: see declaration of 'CTriggerbot'
+f:\my documents\csgo source\smef's indigo 4.0\indigo\cheat\aimbot\aimbot.cpp(55): error C2227: left of '->bTriggerAttack' must point to class/struct/union/generic type
+  Knifebot.cpp
+f:\my documents\csgo source\smef's indigo 4.0\indigo\cheat\client.cpp(173): error C2027: use of undefined type 'CTriggerbot'
+  f:\my documents\csgo source\smef's indigo 4.0\indigo\cheat\client.h(21): note: see declaration of 'CTriggerbot'
+  Misc.cpp
+f:\my documents\csgo source\smef's indigo 4.0\indigo\cheat\esp\esp.cpp(415): error C2027: use of undefined type 'CTriggerbot'
+  f:\my documents\csgo source\smef's indigo 4.0\indigo\cheat\client.h(21): note: see declaration of 'CTriggerbot'
+f:\my documents\csgo source\smef's indigo 4.0\indigo\cheat\esp\esp.cpp(415): error C2227: left of '->TriggerShowStatus' must point to class/struct/union/generic type
+f:\my documents\csgo source\smef's indigo 4.0\indigo\cheat\esp\esp.cpp(438): error C2027: use of undefined type 'CTriggerbot'
+  f:\my documents\csgo source\smef's indigo 4.0\indigo\cheat\client.h(21): note: see declaration of 'CTriggerbot'
+f:\my documents\csgo source\smef's indigo 4.0\indigo\cheat\esp\esp.cpp(438): error C2227: left of '->TriggerShow' must point to class/struct/union/generic type
+  Radar.cpp
+  DynSkin.cpp
+  Skin.cpp
+  Triggerbot.cpp
+  CSX_Cvar.cpp
+  CSX_Hook.cpp
+  CSX_Log.cpp
+  CSX_Memory.cpp
+  CSX_Utils.cpp
+  Engine.cpp
+  Entity.cpp
+  Hook.cpp
+  NetVar.cpp
+  Offset.cpp
+  Players.cpp
+  Render.cpp
+  Weapon.cpp
+  Gui.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  License.cpp
+  Main.cpp
+  ReflectiveLoader.cpp
+  CRC.cpp
+  KeyValues.cpp
+  SDK.cpp
+  Sounds.cpp
+  Spoofed.cpp
+  Vector.cpp
+  Vector2D.cpp
+  Vector4D.cpp
+  VMatrix.cpp
+  Settings.cpp

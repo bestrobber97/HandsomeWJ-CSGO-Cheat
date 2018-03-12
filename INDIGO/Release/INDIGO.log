@@ -1,0 +1,45 @@
+﻿  Aimbot.cpp
+  LagComp.cpp
+  Client.cpp
+  Esp.cpp
+  Knifebot.cpp
+  Misc.cpp
+  Radar.cpp
+  DynSkin.cpp
+  Skin.cpp
+  Triggerbot.cpp
+  CSX_Cvar.cpp
+  CSX_Hook.cpp
+  CSX_Log.cpp
+  CSX_Memory.cpp
+  CSX_Utils.cpp
+  Engine.cpp
+  Entity.cpp
+  Hook.cpp
+  NetVar.cpp
+  Offset.cpp
+  Generating Code...
+  Compiling...
+  Players.cpp
+  Render.cpp
+  Weapon.cpp
+  Gui.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  License.cpp
+  Main.cpp
+  ReflectiveLoader.cpp
+  CRC.cpp
+  KeyValues.cpp
+  SDK.cpp
+  Sounds.cpp
+  Spoofed.cpp
+  Vector.cpp
+  Vector2D.cpp
+  Vector4D.cpp
+  VMatrix.cpp
+  Settings.cpp
+  Generating Code...
+     Creating library F:\My Documents\CSGO Source\smef's Indigo 4.0\Release\smef.pw.lib and object F:\My Documents\CSGO Source\smef's Indigo 4.0\Release\smef.pw.exp
+  INDIGO.vcxproj -> F:\My Documents\CSGO Source\smef's Indigo 4.0\Release\smef.pw.dll
